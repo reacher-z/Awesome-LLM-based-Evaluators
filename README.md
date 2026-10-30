@@ -27,6 +27,7 @@ In the realm of evaluating large language models, automated LLM-based evaluation
 | [**GPTScore: Evaluate as You Desire**](https://arxiv.org/abs/2302.04166) by Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu | EMNLP         | 2023 | 228            | [Github](https://github.com/jinlanfu/GPTScore)               |
 | [**Exploring the Use of Large Language Models for Reference-Free Text Quality Evaluation: An Empirical Study**](https://arxiv.org/abs/2304.00723) by Yi Chen, Rui Wang, Haiyun Jiang, Shuming Shi, Ruifeng Xu | arXiv         | 2023 | 39             | -                                                            |
 | **[Evaluating General-Purpose AI with Psychometrics](https://arxiv.org/abs/2310.16379)** by Xiting Wang, Liming Jiang, Jose Hernandez-Orallo, David Stillwell, Luning Sun, Fang Luo, Xing Xie | arXiv         | 2023 | 3              | -                                                            |
+| [**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**](https://arxiv.org/abs/2505.20139) by Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen | TMLR | 2026 | - | [GitHub](https://github.com/TIGER-AI-Lab/StructEval) |
 
 ## Psychometrics in LLMs evaluation
 
